@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project3" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="logo">@drawable/planet_icon</item>
+        <item name="colorPrimary">@color/actionBar</item>
+        <item name="android:fontFamily">@font/nunito_extrabold</item>
+    </style>
+    <style name="Theme.Project3" parent="Base.Theme.Project3" />
+</resources>
